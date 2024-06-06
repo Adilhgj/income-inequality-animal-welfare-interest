@@ -399,5 +399,5 @@ plot <- ggplot(data, aes(x = gini_cwc, y = search_interest, color = ifelse(state
             nudge_x = 0.2, 
             color = "black", size = 3, hjust = 0.55, vjust = -0.5)
 
-ggsave(here("graphs", "random_intercepts_slopes_plot.png"), plot = plot, width = 12, height = 6)
+ggsave(here("graphs", "08_Random_Intercepts_Slopes_Plot.png"), plot = plot, width = 12, height = 6)
 
