@@ -1,5 +1,5 @@
 # Income Inequality and Search Interest in Animal Welfare Products
-(./USRI%20poster_preview.png)
+![plot](./USRI%20poster_preview.png)
 
 ## Objective
 This project is a part of the undergraduate summer research internship (USRI) program at Ivey Business School. The repository contains the data and analysis code for the research project "Income Inequality and Search Interest in Animal Welfare Products." The project investigates the relationship between income inequality and the search interest in animal welfare-related keywords across the United States.
