@@ -8,9 +8,9 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ### Data Sources
 
-- **Google Trends**: Search interest data for animal welfare keywords. Retrieved from [Google Trends](https://trends.google.com/trends/)
-- **Social Explorer**: Gini index data. Retrieved from [Social Explorer](https://www.socialexplorer.com/)
-- **American Community Survey (ACS)**: Demographic and socioeconomic data for covariates. Retrieved from [U.S. Census Bureau](https://www.census.gov/programs-surveys/acs/)
+- **Google Trends**: Search interest data for animal welfare keywords.
+- **Social Explorer**: Gini index data.
+- **American Community Survey (ACS)**: Demographic and socioeconomic data for covariates.
 
 ## Project Structure
 
