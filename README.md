@@ -8,13 +8,13 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 | **Topic**                                    | **Source**                |
 |:---------------------------------------------|:--------------------------|
-| [Search interest data](./spotify-artists)       | Google Trends                  |
-| [Gini index data](./soth-election)                                | Social Explorer                 |
-| [Demographic and Socioeconomic data](./fifa-world-cup)           | American Community Survey (ACS)          |
+| [Search interest data](https://trends.google.com/)                         | Google Trends             |
+| [Gini index data](https://www.socialexplorer.com/)                              | Social Explorer           |
+| [Demographic and Socioeconomic data](https://www.census.gov/programs-surveys/acs)           | American Community Survey (ACS) |
 
 # Gallery
 
-## [Random_Intercepts_Slopes_Plot](./graphs)
+## [Random Intercepts Slopes Plot](./graphs)
 
 ![plot](./graphs/08_Random_Intercepts_Slopes_Plot.png)
 
