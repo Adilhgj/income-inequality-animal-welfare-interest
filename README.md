@@ -3,11 +3,8 @@
 ## Objective
 This project is a part of the undergraduate summer research internship (USRI) program at Ivey Business School. The repository contains the data and analysis code for the research project "Income Inequality and Search Interest in Animal Welfare Products." The project investigates the relationship between income inequality and the search interest in animal welfare-related keywords across the United States.
 
-## Data Collection
-
-Data was collected spanning from 2006 to 2022 using the R programming language and various APIs. The data for the year 2020 were excluded due to the U.S. Census Bureau's temporary halt of the ACS that year. Our dataset includes 51 states, encompassing Washington D.C., and 16 years for a total of 816 observations.
-
 ## Summary
+Data was collected spanning from 2006 to 2022 using the R programming language and various APIs. The data for the year 2020 were excluded due to the U.S. Census Bureau's temporary halt of the ACS that year. Our dataset includes 51 states, encompassing Washington D.C., and 16 years for a total of 816 observations.
 
 | **Topic**                                    | **Source**                |
 |:---------------------------------------------|:--------------------------|
@@ -19,7 +16,7 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ## [Random_Intercepts_Slopes_Plot](./graphs)
 
-![plot](.graphs/08_Random_Intercepts_Slopes_Plot.png)
+![plot](./graphs/08_Random_Intercepts_Slopes_Plot.png)
 
 
 ## Future Steps
