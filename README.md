@@ -23,7 +23,7 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ![plot](./graphs/02_Trend_of_Search_Interest.png)
 
-<table style="border: none; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%;">
       <h2><a href="./graphs">Distribution of Gini Index</a></h2>
