@@ -18,6 +18,12 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ![plot](./graphs/08_Random_Intercepts_Slopes_Plot.png)
 
+## [Trend of Search Interest](./graphs)
+
+![plot](./graphs/02_Trend_of_Search_Interest.png)
+
+
+
 
 ## Future Steps
 
