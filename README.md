@@ -22,9 +22,9 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ![plot](./graphs/02_Trend_of_Search_Interest.png)
 
+## [Coefficient Plot of Covariates](./graphs)
 
-
+![plot](./graphs/04_Coefficient_Plot_of_Covariates.png)
 
 ## Future Steps
-
 Google Trends provides valuable insights into public interest and behavior by analyzing search query data. In the future, we can expand the range of topics beyond animal welfare to include areas such as environmental issues, public health, and economic indicators. This can help identify broader trends in public interest. In addition, we can explore correlations between Google Trends data and other datasets (e.g., social media activity, economic indicators, public health data) to identify potential relationships and causative factors.
