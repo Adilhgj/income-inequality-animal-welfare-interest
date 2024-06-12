@@ -23,25 +23,18 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ![plot](./graphs/02_Trend_of_Search_Interest.png)
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<table>
+  <tr>
+    <td>
+      ## [Distribution of Gini Index](./graphs)
+      <img src="./graphs/05_Distribution_of_Gini_Index.png" alt="plot" style="width:100%;"/>
+    </td>
+    <td>
+      ## [Effect of Covariates on Search Interest](./graphs)
+      <img src="./graphs/04_Coefficient_Plot_of_Covariates.png" alt="plot" style="width:100%;"/>
+    </td>
+  </tr>
+</table>
 
-<div style="flex: 1; margin-right: 10px;">
-  
-## [Distribution of Gini Index](./graphs)
-  
-<img src="./graphs/05_Distribution_of_Gini_Index.png" alt="plot" style="width:100%;"/>
-  
-</div>
-  
-<div style="flex: 1; margin-left: 10px;">
-  
-## [Effect of Covariates on Search Interest](./graphs)
-  
-<img src="./graphs/04_Coefficient_Plot_of_Covariates.png" alt="plot" style="width:100%;"/>
-  
-</div>
-
-</div>
-
-## Future Steps
+# Future Steps
 Google Trends provides valuable insights into public interest and behavior by analyzing search query data. In the future, we can expand the range of topics beyond animal welfare to include areas such as environmental issues, public health, and economic indicators. This can help identify broader trends in public interest. In addition, we can explore correlations between Google Trends data and other datasets (e.g., social media activity, economic indicators, public health data) to identify potential relationships and causative factors.
