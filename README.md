@@ -23,14 +23,14 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ![plot](./graphs/02_Trend_of_Search_Interest.png)
 
-<table>
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
-      ## [Distribution of Gini Index](./graphs)
+    <td style="border: none; vertical-align: top; width: 50%;">
+      <h2><a href="./graphs">Distribution of Gini Index</a></h2>
       <img src="./graphs/05_Distribution_of_Gini_Index.png" alt="plot" style="width:100%;"/>
     </td>
-    <td>
-      ## [Effect of Covariates on Search Interest](./graphs)
+    <td style="border: none; vertical-align: top; width: 50%;">
+      <h2><a href="./graphs">Effect of Covariates on Search Interest</a></h2>
       <img src="./graphs/04_Coefficient_Plot_of_Covariates.png" alt="plot" style="width:100%;"/>
     </td>
   </tr>
