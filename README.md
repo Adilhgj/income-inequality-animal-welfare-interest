@@ -6,7 +6,7 @@ This project is a part of the undergraduate summer research internship (USRI) pr
 ## Summary
 Data was collected spanning from 2006 to 2022 using the R programming language and various APIs. The data for the year 2020 were excluded due to the U.S. Census Bureau's temporary halt of the ACS that year. Our dataset includes 51 states, encompassing Washington D.C., and 16 years for a total of 816 observations.
 
-| **Topic**                                    | **Source**                |
+| **Data**                                    | **Source**                |
 |:---------------------------------------------|:--------------------------|
 | [Search interest data](https://trends.google.com/)                         | Google Trends             |
 | [Gini index data](https://www.socialexplorer.com/)                              | Social Explorer           |
