@@ -14,19 +14,19 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 # Gallery
 
-## [Random Intercepts Slopes Plot] [Codes](06-data-virtualization.R#L317)
+## [Random Intercepts Slopes Plot](06-data-virtualization.R#L317)
 
 ![plot](./graphs/08_Random_Intercepts_Slopes_Plot.png)
 
-## [Search Interest in Animal Welfare Products Over Time] [Codes](06-data-virtualization.R#L147)
+## [Search Interest in Animal Welfare Products Over Time](06-data-virtualization.R#L147)
 
 ![plot](./graphs/02_Trend_of_Search_Interest.png)
 
-## [Distribution of Gini Index] [Codes](06-data-virtualization.R#L243)
+## [Distribution of Gini Index](06-data-virtualization.R#L243)
 
 <img src="./graphs/05_Distribution_of_Gini_Index.png" alt="plot" style="width:500px;"/>
 
-## [Effect of Covariates on Search Interest] [Codes](06-data-virtualization.R#L215)
+## [Effect of Covariates on Search Interest](06-data-virtualization.R#L215)
 
 <img src="./graphs/04_Coefficient_Plot_of_Covariates.png" alt="plot" style="width:500px;"/>
 
