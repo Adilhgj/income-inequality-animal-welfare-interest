@@ -1,8 +1,6 @@
-# Income Inequality and Search Interest in Animal Welfare Products
-![plot](./poster/USRI%20Poster.png)
-
-## Objective
+# Objective
 This project is a part of the undergraduate summer research internship (USRI) program at Ivey Business School. The repository contains the data and analysis code for the research project "Income Inequality and Search Interest in Animal Welfare Products." The project investigates the relationship between income inequality and the search interest in animal welfare-related keywords across the United States.
+![plot](./poster/USRI%20Poster.png)
 
 ## Summary
 Data was collected spanning from 2006 to 2022 using the R programming language and various APIs. The data for the year 2020 were excluded due to the U.S. Census Bureau's temporary halt of the ACS that year. Our dataset includes 51 states, encompassing Washington D.C., and 16 years for a total of 816 observations.
@@ -19,15 +17,15 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 ![plot](./graphs/08_Random_Intercepts_Slopes_Plot.png)
 
-## [Search Interest in Animal Welfare Products Over Time](./graphs)
+## [Search Interest in Animal Welfare Products Over Time](06-data-virtualization.R#L147)
 
 ![plot](./graphs/02_Trend_of_Search_Interest.png)
 
-## [Distribution of Gini Index](./graphs)
+## [Distribution of Gini Index](06-data-virtualization.R#L243)
 
 <img src="./graphs/05_Distribution_of_Gini_Index.png" alt="plot" style="width:500px;"/>
 
-## [Effect of Covariates on Search Interest](./graphs)
+## [Effect of Covariates on Search Interest](06-data-virtualization.R#L215)
 
 <img src="./graphs/04_Coefficient_Plot_of_Covariates.png" alt="plot" style="width:500px;"/>
 
