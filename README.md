@@ -15,7 +15,7 @@ Data was collected spanning from 2006 to 2022 using the R programming language a
 
 # Gallery
 
-## [Random Intercepts Slopes Plot](06-data-virtualization.R#08_random_intercepts_slopes_plot)
+## [Random Intercepts Slopes Plot](06-data-virtualization.R#L317)
 
 ![plot](./graphs/08_Random_Intercepts_Slopes_Plot.png)
 
