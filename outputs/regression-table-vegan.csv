@@ -1,0 +1,9 @@
+Variable Names,Estimates
+(Intercept),55.63 (2.25)***
+gini_cwc,-1.34 (0.37)***
+age_median_cwc,0.88 (0.51) 
+bachelors_or_higher_percent_cwc,0.28 (0.37) 
+male_percent_cwc,-7.62 (1.32)***
+white_percent_cwc,-0.04 (0.09) 
+income_mean_cwc,5.57 (0.87)***
+population_density_cwc,0.51 (0.25)*
